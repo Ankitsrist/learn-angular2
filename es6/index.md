@@ -11,7 +11,7 @@ is how to actually write modern JavaScript.
 There's ES5, ES6, then ES7, TypeScript, AtScript, Dart, Babel...the list goes on.
 
 JavaScript is largely a standards-driven language. That means a [committee agrees](http://www.infoq.com/news/2015/06/ecmascript-2015-es6) on 
-what "JavaScript" is, at least the lowest common denominator of it, and browser vendors
+ooooooooooooooooooooooooooooooooooooooit, and browser vendors
 work to implement those features. Today (but not for long), ES5 is that version of JS that is
 most widely supported.
 
